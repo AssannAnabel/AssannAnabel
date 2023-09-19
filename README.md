@@ -4,10 +4,8 @@
 
 Scrum Fundamentals Certified
 
-Skills: HTML / CSS /TYPESCRIPT/JAVASCRIPT/REACT/NEST
-
 - 🌱 I’m currently learning MySql 
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nestjs,postman)](https://skillicons.dev)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AssannAnabel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/anabel-assann/)  
 
