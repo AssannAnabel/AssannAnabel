@@ -2,9 +2,8 @@
 #### Full Stack web development student
 
 Scrum Fundamentals Certified
+ 
 
-- 🌱 I’m currently learning MySql 
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nestjs,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nestjs,postman,mysql)](https://skillicons.dev)
 
 
